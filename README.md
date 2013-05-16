@@ -1,1 +1,4 @@
-<h1><a href="https://github.com/shikakun/how-to-use-github/issues/1">How to use GitHub</a></h1>
+# Sqale で教わった issue の使いかた
+
+* 閉じられる issue しか立てない。
+* mention されたらすぐ返信する。
